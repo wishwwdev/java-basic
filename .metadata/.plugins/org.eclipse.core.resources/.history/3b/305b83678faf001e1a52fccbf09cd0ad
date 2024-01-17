@@ -1,0 +1,5 @@
+package basicPractice.hr.service;
+
+public interface MainService {
+
+}

@@ -1,0 +1,5 @@
+package com.woolim.demo.entity;
+
+public class ObjectEntity {
+
+}

@@ -1,0 +1,39 @@
+package basicPractice.hr.controller.implement;
+
+import basicPractice.hr.controller.MainController;
+import basicPractice.hr.dto.PatchEmployeeRequestDto;
+import basicPractice.hr.dto.PostEmployeeRequestDto;
+
+public class MainControllerImplement implements MainController {
+
+	@Override
+	public void postEmployee(PostEmployeeRequestDto dto) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void getEmployeeList() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void getEmployee(String employeeNumber) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void patchEmployee(PatchEmployeeRequestDto dto) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deleteEmployee(String employeeNumber) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

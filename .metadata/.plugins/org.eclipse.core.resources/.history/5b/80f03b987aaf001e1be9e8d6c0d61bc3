@@ -1,0 +1,5 @@
+package com.woolim.demo.dto;
+
+public class ResponseDto {
+
+}

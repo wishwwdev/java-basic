@@ -1,0 +1,5 @@
+package basicPractice.hr.entity;
+
+public class EmployeeEntity {
+
+}

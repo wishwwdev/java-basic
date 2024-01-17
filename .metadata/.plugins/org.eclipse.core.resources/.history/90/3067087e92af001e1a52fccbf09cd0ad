@@ -1,0 +1,32 @@
+package basicPractice.hr.repository.implement;
+
+import basicPractice.hr.entity.EmployeeEntity;
+import basicPractice.hr.repository.EmployeeRepository;
+
+public class EmployeeRepositoryImplement implements EmployeeRepository {
+
+	@Override
+	public boolean save(EmployeeEntity employeeEntity) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean delete(EmployeeEntity employeeEntity) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public EmployeeEntity[] findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public EmployeeEntity findByEmployeeNumber(String employeeNumber) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
